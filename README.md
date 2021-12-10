@@ -1,4 +1,4 @@
 # FullStack-Class-9
-Class 9(Flash errors and User created post)
+Class 10(User created post and profiles)
 
-* Codes and pdf for Class 8=9 is attached here
+* Codes and pdf for Class 10 is attached here
